@@ -5,7 +5,7 @@
 <p align="left">IsraaDev</p>
 
 <p align="center">
-  <img src="https://github.com/EsraaMaged22/EsraaMaged22/blob/main/israa_cartoon_transparent.png" width="500"/>
+  <img src="https://github.com/EsraaMaged22/EsraaMaged22/blob/main/israa_cartoon_transparent.png" width="400"/>
 </p>
 
 ###
@@ -40,6 +40,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
