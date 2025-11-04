@@ -4,6 +4,10 @@
 
 <p align="left">IsraaDev</p>
 
+<p align="center">
+  <img src="https://github.com/EsraaMaged22/EsraaMaged22/blob/main/israa_cartoon_transparent.png" width="200"/>
+</p>
+
 ###
 
 <h2 align="left">About me</h2>
