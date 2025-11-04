@@ -5,7 +5,7 @@
 <p align="left">IsraaDev</p>
 
 <p align="center">
-  <img src="https://github.com/EsraaMaged22/EsraaMaged22/blob/main/israa_cartoon_transparent.png" width="200"/>
+  <img src="https://github.com/EsraaMaged22/EsraaMaged22/blob/main/israa_cartoon_transparent.png" width="500"/>
 </p>
 
 ###
